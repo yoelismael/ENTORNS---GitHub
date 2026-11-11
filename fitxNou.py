@@ -1,0 +1,1 @@
+print("fitxer proves_beta")

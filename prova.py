@@ -1,1 +1,1 @@
-print("Hola :0")
+print("canvi de master cap a prova")
